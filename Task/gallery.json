@@ -7,7 +7,6 @@
         "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
         "00 16 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
         "1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png, enabled=true",
-        "0 2 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音签到, img-url=https://raw.githubusercontent.com/LiuYuanwork/Head/main/TT.png, enabled=true",
         "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/sz.js, tag=闪挣, img-url=https://ae01.alicdn.com/kf/U0eeed99dbe9a4cf99b73aaed7902a3a9z.jpg, enabled=true",
         "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
         "15 12 * * * https://raw.githubusercontent.com/age174/-/main/yyxs.js, tag=阅友小说, img-url=https://s3.ax1x.com/2021/02/27/6pouiF.jpg, enabled=true",
