@@ -2,7 +2,7 @@
     "name": "自用",
     "description": "自用",
     "task": [
-        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族， img-url=https://raw.githubusercontent.com/cloudysky9/quan/main/picture/%E6%82%A6%E5%8A%A8%E6%97%8F.png, enable=true",
+        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js,tag=悦动族, img-url=https://raw.githubusercontent.com/cloudysky9/quan/main/picture/%E6%82%A6%E5%8A%A8%E6%97%8F.png, enable=true",
         "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
         "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true",
         "3,30 0 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockcow.js, tag=活动-长牛来了, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true",
