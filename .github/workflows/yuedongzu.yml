@@ -3,7 +3,7 @@ name: 微博每日签到打卡
 on:
   workflow_dispatch:
   schedule:
-     - cron: '5 18 * * *'
+     - cron: '0,30 0-23 * * *'
   watch:
     types: started
 jobs:
@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     env:
-        WB_TOKEN: ${{ secrets.WB_TOKEN }}
-        WB_PAY: ${{ secrets.WB_PAY }}
+        YDZ_TOKEN: ${{ secrets.YDZ_yuedongzuTOKEN }}
+        YDZ_CASH: ${{ secrets.YDZ_CASH }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -21,11 +21,11 @@ jobs:
         with:
           node-version: 12.x
       - name: npm install
-        if: env.WB_TOKEN
+        if: env.YDZ_TOKEN
         run: |
           npm install
-      - name: '运行 【新浪微博】'
-        if: env.WB_TOKEN
+      - name: '运行 【悦动族】'
+        if: env.YDZ_TOKEN
         run: |
           node Task/weibo.js
         env:
