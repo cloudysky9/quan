@@ -27,7 +27,7 @@ jobs:
       - name: '运行 【悦动族】'
         if: env.YDZ_TOKEN
         run: |
-          node Task/weibo.js
+          node js/yuedongzu.js
         env:
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
           BARK_PUSH: ${{ secrets.BARK_PUSH }}
