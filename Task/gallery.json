@@ -2,7 +2,7 @@
     "name": "自用",
     "description": "自用",
     "task": [
-        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.png, enabled=true",
+        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动, img-url=https://raw.githubusercontent.com/cloudysky9/quan/main/picture/qmyd.png, enabled=true",
         "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
         "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/cloudysky9/quan/main/picture/yuedongzu.png, enabled=true",
         "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
