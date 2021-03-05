@@ -21,7 +21,6 @@
         "20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/cloudysky9/mini/master/youth.png, enabled=true",
         "5,35 8-21 * * * https://raw.githubusercontent.com/iepngs/Script/master/jrtt/index.js,tag=今日头条极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jrtt.png, enabled=true",
         "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd.png, enabled=true",
-        "30 6,12,22 * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js, tag=京喜财富岛兑换提醒, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jx_cfd_exchange.png, enabled=true",
         "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png, enabled=true",
         "*/6 * * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱ziye版, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
         "10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
