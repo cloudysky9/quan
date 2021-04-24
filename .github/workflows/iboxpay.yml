@@ -29,7 +29,6 @@ jobs:
         if: env.XP_refreshTOKEN
         run: |
           npm install
-          npm install sendNotify
       - name: '运行 【笑普】'
         if: env.XP_refreshTOKEN
         run: |
