@@ -2,8 +2,8 @@
     "name": "自用",
     "description": "自用",
     "task": [
-        "1 */5 * * * https://raw.githubusercontent.com/cloudysky9/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
-        "20 15 */2 * * * https://raw.githubusercontent.com/cloudysky9/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
-        "20 5 10 * * * https://raw.githubusercontent.com/cloudysky9/Scripts/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+        "1 */5 * * * https://raw.githubusercontent.com/cloudysky9/Scripts-1/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+        "20 15 */2 * * * https://raw.githubusercontent.com/cloudysky9/Scripts-1/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+        "20 5 10 * * * https://raw.githubusercontent.com/cloudysky9/Scripts-1/master/Task/youth_gain.js, tag=中青看点浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
     ]
 }
